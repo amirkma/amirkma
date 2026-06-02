@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://uploadkon.ir/uploads/369816_25Screenshot-2024-03-04-150309.png"  />
+  <img height="200" src="https://github.com/amirkma/Site-KMA-TOOLS/blob/main/ico/Nova.png?raw=true"  />
 </div>
 
 ###
